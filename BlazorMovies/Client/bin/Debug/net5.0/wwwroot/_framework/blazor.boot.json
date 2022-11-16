@@ -196,14 +196,14 @@
       "netstandard.dll": "sha256-W3q3PN+lpRB+tRJEIhtMgYOGFv0pauEeeCS9iIRkKAM=",
       "System.Private.CoreLib.dll": "sha256-9rUJv1mXEQdGt\/kWiJ1ITPPzp3cAi3lSmqHVTisp7w0=",
       "BlazorMovies.Shared.dll": "sha256-ua1uAKEHKqdLBv7ZcosPSRkNL73jDMGnlLeJcJX1HEE=",
-      "BlazorMovies.Client.dll": "sha256-f+wEgHcSeoGtH7mTbT59cy0IvPWKE1aw21O7URXrwtA="
+      "BlazorMovies.Client.dll": "sha256-sYqfeclMunkSrhwwDYt3cWgiNqOBm74O\/iGWhIb2OK0="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "BlazorMovies.Shared.pdb": "sha256-HQDUmlBPvtwjbMThNbg30RqdN5PWMHJPOyYkFF+igB0=",
-      "BlazorMovies.Client.pdb": "sha256-DtjQXPCmlJpT7+BwNvgswwDanvbbponaiW6rbwSEYH8="
+      "BlazorMovies.Client.pdb": "sha256-9njGBAKdPP00jWhsYmaKOaimlyraM52QdEFNrHVC5LI="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-8oJip361m8OrfLRJOuIeswWKaoxtT27\/wINCxhn+s4c=",
